@@ -1,4 +1,4 @@
-![Angie Barrón Ramos](https://user-images.githubusercontent.com/109999898/213078897-866cb0d8-385c-44e4-9379-d55d208a052c.gif)
+![Angie Barrón Ramos](https://user-images.githubusercontent.com/109999898/213081410-cc604be1-b8a0-4aa3-9e46-1b4ef15cb2f7.gif)
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Angie.</h1>
 <h3 align="center">A passionate frontend learner from Mexico.👩🏻‍💻</h3>
 
